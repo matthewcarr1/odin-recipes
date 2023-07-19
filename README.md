@@ -1,0 +1,1 @@
+The current project is to use the basics of HTML to link to various recipes on various pages for the Odin project
